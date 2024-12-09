@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451615367539",
+    "project_id": "smartband1-81618",
+    "storage_bucket": "smartband1-81618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451615367539:android:2958efba726158a55f6506",
+        "android_client_info": {
+          "package_name": "com.example.smartband"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7bg96ZsKDSjsZXlbBF1PPNouayPo0e_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
